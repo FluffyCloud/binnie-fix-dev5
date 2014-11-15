@@ -1,0 +1,11 @@
+# gradle eclipse generates these:
+.classpath
+.settings
+.project
+
+# Ignore gradle path
+.gradle
+
+# Ignore compiled artifacts
+build/
+bin/

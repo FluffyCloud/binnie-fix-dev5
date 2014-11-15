@@ -1,0 +1,16 @@
+[
+{
+  "modid": "binnie-fix-dev5",
+  "name": "BinnieFixDev5",
+  "description": "Removing Binnie's Fence recipies",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FluffyCloud42"],
+  "credits": "Forestry team and Binnnie",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
